@@ -5,7 +5,7 @@ Carte interractive permettant de visualiser des données sur le développement d
 
 ### Contexte
 
-Ce projet a été réalisé dans le cadre d'un cours d'initiations aux IHMdispensé par une intervenant de chez MBDA.
+Ce projet a été réalisé dans le cadre d'un cours d'initiations aux IHM dispensé par un intervenant de chez MBDA.
 
 C'est le projet final du cours, celui sur lequel nous étions évalué. Il a été réalisé en binôme sous java Swing.
 
@@ -20,7 +20,7 @@ Puis à partir de cela nous avons réalisé les spécifications de l'application
 
 
 ### Application
-Pour le projet, nous donc partis sur une interface claire, lisible et épurée, tout en étant pratique pour les utilisateurs. Elle est composée de deux grosses parties : la barre du haut, qui permet de rechercher les indicateurs et les informations que l’on veut afficher, et prenant la majorité de l’espace, la carte que l’on va colorer en fonction du filtre choisi.
+Pour le projet, nous donc partis sur une interface claire, lisible et épurée, tout en étant pratique pour les utilisateurs. Elle est composée de deux grosses parties : la barre du haut, qui permet de rechercher les indicateurs et les informations que l’on veut afficher, et  la carte, prenant la majorité de l’espace, que l’on va colorer en fonction du filtre choisi.
 
 Nous avons donc une application véritablement graphique où la carte est au centre de l’attention. Cela permet également d’éviter de rebuter certaines personnes qui ne veulent pas se perdre dans des menus interminables.
 
@@ -30,3 +30,7 @@ Pour rechercher un indicateur nous avons optés pour deux solutions, des menus d
 Pour les premiers menus, il y a 9 boutons représentants les 9 catégories général (il manque des icones représentatives des catégories dans les boutons), lorsque l'on clique dessus, un menu déroulant apparait présentant les sous catégories, qui une fois choisis présentent à leurs tour les indicateurs choisissables.
 
 Ainsi si l'on veut choisir "% de population de + de 65 ans", il faut cliquer sur le bouton "Santé", choisir la sous-catégorie "Général", puis choisir cet indicateur. L'autre solution est de l'entrer directement dans la barre de recherche, si l'on sait ce que l'on recherche.
+
+![Image: Présentation des menus](https://github.com/JulienPolop/Map-Explorer/blob/master/images/Menu%20Deroulant.PNG)
+
+
