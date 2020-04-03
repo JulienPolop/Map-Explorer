@@ -10,7 +10,7 @@ Ce projet a été réalisé dans le cadre d'un cours d'initiations aux IHM dispe
 C'est le projet final du cours, celui sur lequel nous étions évalué. Il a été réalisé en binôme sous java Swing.
 
 
-Nous avions à notre disposition une base de donnée sous, forme de csv, d'indicateurs de développement pour chaque pays, issus du World Developpment Indicators (https://databank.worldbank.org/source/world-development-indicators) ainsi que des classes déjà implémentée construisant le modèle de donnée extrait du CSV.
+Nous avions à notre disposition une base de donnée sous, forme de csv, d'indicateurs de développement pour chaque pays, issus du World Developpment Indicators (https://databank.worldbank.org/source/world-development-indicators) ainsi que des classes déjà implémentées construisant le modèle de donnée extrait du CSV.
 
 
 ### Préparation
